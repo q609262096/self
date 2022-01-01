@@ -7,3 +7,6 @@ http://mp-prod.smartmidea.+v1/certificate/app/list url script-request-body https
 #多走路
 api-sport.chenglie.tech/s.+ig url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/dzl.js
 api-sport.chenglie.tech/wit.+/app.+ url script-request-body https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/dzl.js
+#得间
+https://dj.palmestore.com/.+/info/getUserInfo? url script-request-body https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js
+https://dj.palmestore.com/.+video/report? url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js
