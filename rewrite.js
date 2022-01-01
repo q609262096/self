@@ -11,4 +11,4 @@ api-sport.chenglie.tech/wit.+/app.+ url script-request-body https://ghproxy.com/
 https://dj.palmestore.com/.+/info/getUserInfo? url script-request-body https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js
 https://dj.palmestore.com/.+video/report? url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/djxs.js
 #fqct
-luckycat/novel_fm/v1/task/sign_in/* url script-request-header https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js
+luckycat/novel_fm/v1/task/sign_in/* url script-request-header https://ghproxy.com/https://raw.githubusercontent.com/bluesmallpig/scripts/main/fqctapp.js
